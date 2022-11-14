@@ -1,0 +1,22 @@
+.overall_contenair{
+    margin-left: 400px;
+    margin-top: 70px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border-radius: 15px;
+    padding-top: 20px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(180, 165, 165);
+    color: white;
+}
+.form-group{
+    gap: 30px;
+}
